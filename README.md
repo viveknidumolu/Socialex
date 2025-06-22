@@ -118,10 +118,10 @@ App runs on:
 (![image](https://github.com/user-attachments/assets/6020e04b-0960-4baf-8e26-897fc535e135)
 
 # Stories
-![image](https://github.com/user-attachments/assets/f8330ac3-5a30-4a0e-94a4-2cd143a2ad9c)
-
-# Posts
+![image](https://github.com/user-attachments/assets/f8330ac3-5a30-4a0e-94a4-2cd143a2ad9c) # Posts
 ![image](https://github.com/user-attachments/assets/66a1b41b-71bc-41de-86fc-d9a7fbeb9a3f)
+
+
 
 ---
 
