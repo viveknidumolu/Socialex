@@ -148,6 +148,11 @@ REACT_APP_FIREBASE_STORAGE_BUCKET=your_bucket
 REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
 REACT_APP_FIREBASE_APP_ID=your_app_id
 ```
+## 🎥 Demo
+
+Watch a full walkthrough of SocialeX in action:
+
+https://drive.google.com/file/d/1xDJ8aYb451fFts_2vn38VSUtOckL1Ajr/view?usp=drive_link
 
 ## 🙋‍♂️ Support
 
