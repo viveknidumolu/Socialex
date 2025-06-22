@@ -128,12 +128,3 @@ All environment variables and Firebase keys have been securely handled using `.e
 
 ---
 
-### 📤 Final Submission
-
-This document marks the final deliverable for the SocialeX project. All components have been uploaded to the GitHub repository and the Git Repo option is enabled in the workspace.
-
-We request mentor review and approval.
-
----
-
-Would you like this exported as a `.docx` file ready for download? Or want it formatted for Google Docs? Let me know and I can prepare it for you!
