@@ -120,8 +120,9 @@ See **[API.md](https://github.com/HariN999/SocialeX/blob/main/docs/API.md)** for
 ---
 
 ## **6. Screenshots & Demo**  
-📸 Screenshots: View in /screenshots
-🎥 Demo Video: Watch on Drive (Link in README.md) 
+📸 Screenshots: [View in /screenshots](https://github.com/HariN999/SocialeX/tree/main/Screenshots)
+
+🎥 Demo Video: [Watch on Drive](https://drive.google.com/file/d/1xDJ8aYb451fFts_2vn38VSUtOckL1Ajr/view?usp=drive_link) (Link in README.md) 
 
 ---
 
