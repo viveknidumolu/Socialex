@@ -1,4 +1,4 @@
-### 📁 `docs/API.md` — SocialeX API Documentation
+### SocialeX API Documentation
 
 ````markdown
 # 📘 SocialeX API Documentation
