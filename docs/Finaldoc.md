@@ -1,7 +1,3 @@
-Here's a professionally written **project documentation (project report)** tailored specifically to the completion and submission guidelines you've shared — ready for copy-pasting into your **doc writer tool** (COMPOSC A or similar). It includes sections based on **milestones, activities, deliverables**, and reflects the expected tone and structure for evaluation.
-
----
-
 ## 📝 SocialeX – Final Project Report
 
 ---
